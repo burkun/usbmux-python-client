@@ -3,9 +3,7 @@ python client of https://cgit.sukimashita.com/usbmuxd.git
 
 # Introduction
 
-This is a usb debugging proxy for use with my version of PonyDebugger (https://github.com/huangjimmy/PonyDebugger)
-The original PonyDebugger will require you to install a gateway server called ponyd.
-My version of Debugger has an embedded http server so that ponyd is no longer required.
+update for python3
 
 # Prerequisite
 
